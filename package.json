@@ -1,0 +1,23 @@
+{
+  "name": "cachemanager",
+  "version": "0.1.0",
+  "description": "A cache management library for caching data . Default implementations include synchronous file caching, in memory caching etc",
+  "main": "cachemanager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cache",
+    "cache",
+    "manager",
+    "file",
+    "cache"
+  ],
+  "author": "Navinkumar Singh <navinkumar.a.singh@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "args-list": "^0.3.3",
+    "js-md5": "^0.3.0",
+    "mkdirp": "^0.5.1"
+  }
+}
