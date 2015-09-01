@@ -28,3 +28,4 @@ node_modules
 
 #used for testing on local
 usecache.js
+.idea
