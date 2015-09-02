@@ -53,5 +53,9 @@ cache.pull("once",logResult); // twice
 //getting the same key to check
 cache.get("once", logResult); // null
 
+cache.has("greet", logResult); // hello world
+
+cache.has("once", logResult); // null
+
 //flush the entire cache
 cache.flush(logResult); // true
